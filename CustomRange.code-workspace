@@ -1,0 +1,87 @@
+{
+	"folders": [
+		{
+			"name": "CustomRange",
+			"path": "../CustomRange"
+		},
+		{
+			"name": "calculator",
+			"path": "../calculator"
+		},
+		{
+			"name": "practice",
+			"path": "../practice"
+		},
+		{
+			"name": "weather-app",
+			"path": "../weather-app"
+		},
+		{
+			"name": "FileSystems-Practice",
+			"path": "../FileSystems-Practice"
+		},
+		{
+			"name": "crud-methods",
+			"path": "../crud-methods"
+		},
+		{
+			"name": "nodewith-mysql",
+			"path": "../nodewith-mysql"
+		},
+		{
+			"name": "nodewith-mongodb",
+			"path": "../nodewith-mongodb"
+		},
+		{
+			"name": "Authentication",
+			"path": "../Authentication"
+		},
+		{
+			"name": "authentication-Db",
+			"path": "../authentication-Db"
+		},
+		{
+			"name": "rest-api",
+			"path": "../rest-api"
+		},
+		{
+			"name": "authentication-node",
+			"path": "../authentication-node"
+		},
+		{
+			"name": "code",
+			"path": "../code"
+		},
+		{
+			"name": "paginated-api",
+			"path": "../paginated-api"
+		},
+		{
+			"name": "ms-identity-node-main",
+			"path": "../ms-identity-node-main"
+		},
+		{
+			"name": "Share_Ride",
+			"path": "../Share_Ride"
+		},
+		{
+			"path": "../vechicle_ride"
+		},
+		{
+			"path": "../react"
+		},
+		{
+			"path": "../login"
+		},
+		{
+			"path": "../my-project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Share_Ride",
+		"editor.fontSize": 19
+	}
+}
